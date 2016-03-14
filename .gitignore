@@ -16,7 +16,7 @@ downloads/
 eggs/
 .eggs/
 lib/
-lib64/
+.lib64/
 parts/
 sdist/
 var/
@@ -60,3 +60,11 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+#other stuff
+bin/
+.pip-selfcheck.json
+.pyvenv.cfg
+.setup.py
+.tox.ini
+
